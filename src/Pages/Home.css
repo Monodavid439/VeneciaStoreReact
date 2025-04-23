@@ -1,0 +1,11 @@
+.home {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
